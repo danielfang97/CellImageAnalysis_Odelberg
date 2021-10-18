@@ -2,8 +2,9 @@
 
 This public repository is used to store the two Matlab files containing the code used to analyze the confocal images used in our lab's projects.
 It contains two files at this moment: the data calculation file and the GUI file. 
+The two files are titled: "CalculateCellsForGUI" and "CalculateCellsGUI". The other files are uploaded for relevance.
 This code uses a lot of the image visualization toolbox in Matlab. 
-This repository was created for the purpose 
+This repository was created for the purpose of transparency for project submission. 
 
 # Instructions for use of the GUI:
 Add both files to either the Matlab folder or the correct PATH. 
